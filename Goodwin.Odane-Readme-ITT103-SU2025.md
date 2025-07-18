@@ -37,7 +37,10 @@ Tips when operaating system:
 
 
 
+If you encounter any issues, have questions, or need further assistance with the Hospital Management System, feel free to reach out:
 
+Email: goodwinodane@gmail.com
+Feedback and feature suggestions are always welcome!
 
 
 
